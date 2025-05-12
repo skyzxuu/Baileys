@@ -1,11 +1,23 @@
 {
-  "name": "baileys",
+  "name": "@kangfarrel/felzar-baileys",
   "version": "7.1.1",
-  "description": null,
+  "description": "WhatsApp API Modification By Frrlz",
   "keywords": [
     "whatsapp",
-    "js-whatsapp"
+    "js-whatsapp",
+    "whatsapp-api",
+    "whatsapp-web",
+    "whatsapp-chat",
+    "whatsapp-group",
+    "automation",
+    "multi-device"
   ],
+  "homepage": "https://github.com/kangfarrel/felzar-baileys",
+  "repository": {
+    "url": "git@github.com:kangfarrel/felzar-baileys.git"
+  },
+  "license": "MIT",
+  "author": "@kangfarrel",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
